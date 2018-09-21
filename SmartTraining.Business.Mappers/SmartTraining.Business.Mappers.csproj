@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CoursesMapper.cs" />
+    <Compile Include="CourseMapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StudentMapper.cs" />
   </ItemGroup>

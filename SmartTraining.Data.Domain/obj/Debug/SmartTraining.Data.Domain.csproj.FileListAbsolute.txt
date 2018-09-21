@@ -1,5 +1,4 @@
 E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Domain\bin\Debug\SmartTraining.Data.Domain.dll
 E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Domain\bin\Debug\SmartTraining.Data.Domain.pdb
-E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Domain\obj\Debug\SmartTraining.Data.Domain.csprojResolveAssemblyReference.cache
 E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Domain\obj\Debug\SmartTraining.Data.Domain.dll
 E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Domain\obj\Debug\SmartTraining.Data.Domain.pdb

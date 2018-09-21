@@ -10,18 +10,33 @@ namespace SmartTraining.Business.Mappers
 {
     public class StudentMapper
     {
-        public static StudentDto StudentToStudentDto(Student student)
+        public static StudentDto StudentToStudentDto(Student poco)
         {
-            if (student == null) return null;
+            if (poco == null) return null;
             var dto = new StudentDto
             {
-                Id = student.Id,
-                BirthDate = student.BirthDate,
-                LastName = student.LastName,
-                FirstName = student.FirstName,
-                Email = student.Email
+                Id = poco.Id,
+                BirthDate = poco.BirthDate,
+                LastName = poco.LastName,
+                FirstName = poco.FirstName,
+                Email = poco.Email
             };
             return dto;
         }
+
+        public static Student StudentDtoToStudent(StudentDto dto)
+        {
+            if (dto == null) return null;
+            var poco = new Student
+            {
+                Id = dto.Id,
+                BirthDate = dto.BirthDate,
+                LastName = dto.LastName,
+                FirstName = dto.FirstName,
+                Email = dto.Email
+            };
+            return poco;
+        }
+
     }
 }

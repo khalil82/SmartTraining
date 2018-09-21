@@ -6,7 +6,6 @@ using SmartTraining.Business.DTO.Students;
 using SmartTraining.Business.Mappers;
 using SmartTraining.Data.Interfaces;
 
-
 namespace SmartTraining.Business.Handlers.Course
 {
     public class CourseHandler : ICourseHandler
@@ -26,7 +25,7 @@ namespace SmartTraining.Business.Handlers.Course
         public CourseDto GetCourseById(int id)
         {
             var course = _courseRepository.Find(id);
-            var result = CoursesMapper.CourseToCourseDto(course);
+            var result = CourseMapper.CourseToCourseDto(course);
             return result;
         }
 
@@ -51,7 +50,7 @@ namespace SmartTraining.Business.Handlers.Course
             var courses = _courseRepository.FindBy(c => c.IsDeleted == false);
             foreach (var c in courses)
             {
-                var dto = CoursesMapper.CourseToCourseDto(c);
+                var dto = CourseMapper.CourseToCourseDto(c);
                 result.Add(dto);
             }
 
@@ -60,7 +59,7 @@ namespace SmartTraining.Business.Handlers.Course
 
         public bool EditCourse(CourseDto coursesDto)
         {
-            Data.Domain.Courses.Course course = _courseRepository.FindBy(c => c.Id == coursesDto.Id).FirstOrDefault();
+            var course = _courseRepository.FindBy(c => c.Id == coursesDto.Id).FirstOrDefault();
                 if (course != null)
                 {
                 course.Name = coursesDto.Name;
@@ -74,12 +73,11 @@ namespace SmartTraining.Business.Handlers.Course
                 return false;
         }
 
-
         public bool Create(CourseDto courseDto)
         {
             try
             {
-                Data.Domain.Courses.Course course = new Data.Domain.Courses.Course
+                var course = new Data.Domain.Courses.Course
                 {
                     CreatedAt = DateTime.Now,
                     ModifiedAt = DateTime.Now,
@@ -106,7 +104,7 @@ namespace SmartTraining.Business.Handlers.Course
         {
             try
             {
-                Data.Domain.Courses.Course course = _courseRepository.GetSingle(c => c.Id == id);
+                var course = _courseRepository.GetSingle(c => c.Id == id);
                 if (course == null) return false;
                 course.IsDeleted = true;
                 _courseRepository.Update(course);
