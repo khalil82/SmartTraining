@@ -1,0 +1,4 @@
+Data.Domain
+Data.Interfaces
+Data.Repositories
+Data.EntityFramework

@@ -1,0 +1,9 @@
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.Mappers\bin\Debug\SmartTraining.Business.Mappers.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.Mappers\bin\Debug\SmartTraining.Business.Mappers.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.Mappers\obj\Debug\SmartTraining.Business.Mappers.csprojResolveAssemblyReference.cache
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.Mappers\obj\Debug\SmartTraining.Business.Mappers.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.Mappers\obj\Debug\SmartTraining.Business.Mappers.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.Mappers\bin\Debug\SmartTraining.Business.DTO.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.Mappers\bin\Debug\SmartTraining.Data.Domain.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.Mappers\bin\Debug\SmartTraining.Business.DTO.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.Mappers\bin\Debug\SmartTraining.Data.Domain.pdb

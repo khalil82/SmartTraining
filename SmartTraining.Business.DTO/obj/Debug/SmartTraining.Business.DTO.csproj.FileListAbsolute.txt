@@ -1,0 +1,5 @@
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.DTO\bin\Debug\SmartTraining.Business.DTO.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.DTO\bin\Debug\SmartTraining.Business.DTO.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.DTO\obj\Debug\SmartTraining.Business.DTO.csprojResolveAssemblyReference.cache
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.DTO\obj\Debug\SmartTraining.Business.DTO.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Business.DTO\obj\Debug\SmartTraining.Business.DTO.pdb

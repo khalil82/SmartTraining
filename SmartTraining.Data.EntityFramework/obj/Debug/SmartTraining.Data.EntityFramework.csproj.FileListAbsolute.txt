@@ -1,0 +1,17 @@
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\bin\Debug\SmartTraining.Data.EntityFramework.dll.config
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\bin\Debug\SmartTraining.Data.EntityFramework.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\bin\Debug\SmartTraining.Data.EntityFramework.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\bin\Debug\EntityFramework.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\bin\Debug\SmartTraining.Data.Domain.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\bin\Debug\SmartTraining.Data.Domain.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\bin\Debug\EntityFramework.xml
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\obj\Debug\SmartTraining.Data.EntityFramework.csprojResolveAssemblyReference.cache
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\obj\Debug\SmartTraining.Data.EntityFramework.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\obj\Debug\SmartTraining.Data.EntityFramework.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\obj\Debug\SmartTraining.Data.EntityFramework.Migrations.Init.resources
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\obj\Debug\SmartTraining.Data.EntityFramework.csproj.GenerateResource.Cache
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\obj\Debug\SmartTraining.Data.EntityFramework.Migrations.course_Optional_columns.resources
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\obj\Debug\SmartTraining.Data.EntityFramework.Migrations.course_Optional_columns2.resources
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.EntityFramework\obj\Debug\SmartTraining.Data.EntityFramework.Migrations.course_Remove_Instructor.resources

@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Data", "1. Data", "{C42B9A00-CFDF-4FCF-878A-8A0826FA5CF0}"
+	ProjectSection(SolutionItems) = preProject
+		Data.Desc.txt = Data.Desc.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Shared", "0. Shared", "{57DB2276-2A4B-45F7-B91F-CBE0EA014598}"
+	ProjectSection(SolutionItems) = preProject
+		Shaered.Desc.txt = Shaered.Desc.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Business", "2. Business", "{B25FF592-089C-48DE-B07D-E2359782DC08}"
+	ProjectSection(SolutionItems) = preProject
+		Business.Desc.txt = Business.Desc.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Presentation", "3. Presentation", "{00160994-08F6-426C-ACC3-E932572746D2}"
+	ProjectSection(SolutionItems) = preProject
+		Presentation.Desc.txt = Presentation.Desc.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTraining.Data.Domain", "SmartTraining.Data.Domain\SmartTraining.Data.Domain.csproj", "{02CEB18C-67FA-49EF-AD9C-98FBB878FFC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTraining.Data.Interfaces", "SmartTraining.Data.Interfaces\SmartTraining.Data.Interfaces.csproj", "{219E23C3-3DC4-4086-B362-F5045E63EAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTraining.Data.EntityFramework", "SmartTraining.Data.EntityFramework\SmartTraining.Data.EntityFramework.csproj", "{D831D166-27D5-49B4-95F0-4B4BE6443FDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTraining.API", "SmartTraining.API\SmartTraining.API.csproj", "{5C931AD3-7F22-4CD3-A04F-CA643D5689A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTraining.Data.Repository", "SmartTraining.Data.Repository\SmartTraining.Data.Repository.csproj", "{B523B235-56F3-4979-8138-2AE0B95373C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTraining.Business.DTO", "SmartTraining.Business.DTO\SmartTraining.Business.DTO.csproj", "{25B1B9C2-7E43-4A70-80F9-182CFE378E35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTraining.Business.Handlers", "SmartTraining.Business.Handlers\SmartTraining.Business.Handlers.csproj", "{9DB64DCE-CF41-46A7-B453-30A2E6423F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTraining.Business.Mappers", "SmartTraining.Business.Mappers\SmartTraining.Business.Mappers.csproj", "{800A952A-4892-4FFC-AAA3-5B0B1C6248C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CEB18C-67FA-49EF-AD9C-98FBB878FFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CEB18C-67FA-49EF-AD9C-98FBB878FFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CEB18C-67FA-49EF-AD9C-98FBB878FFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CEB18C-67FA-49EF-AD9C-98FBB878FFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219E23C3-3DC4-4086-B362-F5045E63EAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219E23C3-3DC4-4086-B362-F5045E63EAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219E23C3-3DC4-4086-B362-F5045E63EAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219E23C3-3DC4-4086-B362-F5045E63EAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D831D166-27D5-49B4-95F0-4B4BE6443FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D831D166-27D5-49B4-95F0-4B4BE6443FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D831D166-27D5-49B4-95F0-4B4BE6443FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D831D166-27D5-49B4-95F0-4B4BE6443FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C931AD3-7F22-4CD3-A04F-CA643D5689A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C931AD3-7F22-4CD3-A04F-CA643D5689A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C931AD3-7F22-4CD3-A04F-CA643D5689A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C931AD3-7F22-4CD3-A04F-CA643D5689A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B523B235-56F3-4979-8138-2AE0B95373C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B523B235-56F3-4979-8138-2AE0B95373C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B523B235-56F3-4979-8138-2AE0B95373C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B523B235-56F3-4979-8138-2AE0B95373C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B1B9C2-7E43-4A70-80F9-182CFE378E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B1B9C2-7E43-4A70-80F9-182CFE378E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B1B9C2-7E43-4A70-80F9-182CFE378E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B1B9C2-7E43-4A70-80F9-182CFE378E35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB64DCE-CF41-46A7-B453-30A2E6423F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB64DCE-CF41-46A7-B453-30A2E6423F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB64DCE-CF41-46A7-B453-30A2E6423F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB64DCE-CF41-46A7-B453-30A2E6423F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800A952A-4892-4FFC-AAA3-5B0B1C6248C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800A952A-4892-4FFC-AAA3-5B0B1C6248C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800A952A-4892-4FFC-AAA3-5B0B1C6248C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800A952A-4892-4FFC-AAA3-5B0B1C6248C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{02CEB18C-67FA-49EF-AD9C-98FBB878FFC7} = {C42B9A00-CFDF-4FCF-878A-8A0826FA5CF0}
+		{219E23C3-3DC4-4086-B362-F5045E63EAA7} = {C42B9A00-CFDF-4FCF-878A-8A0826FA5CF0}
+		{D831D166-27D5-49B4-95F0-4B4BE6443FDC} = {C42B9A00-CFDF-4FCF-878A-8A0826FA5CF0}
+		{5C931AD3-7F22-4CD3-A04F-CA643D5689A8} = {00160994-08F6-426C-ACC3-E932572746D2}
+		{B523B235-56F3-4979-8138-2AE0B95373C0} = {C42B9A00-CFDF-4FCF-878A-8A0826FA5CF0}
+		{25B1B9C2-7E43-4A70-80F9-182CFE378E35} = {B25FF592-089C-48DE-B07D-E2359782DC08}
+		{9DB64DCE-CF41-46A7-B453-30A2E6423F40} = {B25FF592-089C-48DE-B07D-E2359782DC08}
+		{800A952A-4892-4FFC-AAA3-5B0B1C6248C8} = {B25FF592-089C-48DE-B07D-E2359782DC08}
+	EndGlobalSection
+EndGlobal

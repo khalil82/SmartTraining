@@ -1,0 +1,16 @@
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\SmartTraining.Data.Repository.dll.config
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\SmartTraining.Data.Repository.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\SmartTraining.Data.Repository.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\EntityFramework.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\SmartTraining.Data.EntityFramework.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\SmartTraining.Data.Interfaces.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\SmartTraining.Data.Domain.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\SmartTraining.Data.EntityFramework.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\SmartTraining.Data.Interfaces.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\EntityFramework.xml
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\bin\Debug\SmartTraining.Data.Domain.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\obj\Debug\SmartTraining.Data.Repository.csprojResolveAssemblyReference.cache
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\obj\Debug\SmartTraining.Data.Repository.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Repository\obj\Debug\SmartTraining.Data.Repository.pdb

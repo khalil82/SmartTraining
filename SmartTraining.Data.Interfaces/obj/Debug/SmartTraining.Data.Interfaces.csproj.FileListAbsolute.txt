@@ -1,0 +1,5 @@
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Interfaces\bin\Debug\SmartTraining.Data.Interfaces.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Interfaces\bin\Debug\SmartTraining.Data.Interfaces.pdb
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Interfaces\obj\Debug\SmartTraining.Data.Interfaces.csprojResolveAssemblyReference.cache
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Interfaces\obj\Debug\SmartTraining.Data.Interfaces.dll
+E:\Khalil\Projects\SmartTraining\SmartTraining.Data.Interfaces\obj\Debug\SmartTraining.Data.Interfaces.pdb
