@@ -7,7 +7,9 @@
 <h2>@Html.ViewBag.Title</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @*@Html.ActionLink("Create New", "Create")*@
+    @* <button type="button" class="btn btn-primary">Primary</button> *@
+    <button type="button" onclick="location.href= '@Url.Action("Create", "Courses")'" class="btn btn-primary">Add New</button>
 </p>
 <table class="table">
     <tr>
@@ -41,9 +43,9 @@
             @Html.DisplayFor(modelItem => item.EndDate)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
-            @Html.ActionLink("Details", "Course", new { id=item.Id }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+            <button type="button" onclick="location.href= '@Url.Action("Edit", "Courses", new { id=item.Id })'" class="btn btn-success">Edit</button>
+            <button type="button" onclick="location.href= '@Url.Action("Course", "Courses", new { id=item.Id })'" class="btn btn-info">Details</button>
+            <button type="button" onclick="location.href= '@Url.Action("Delete", "Courses", new { id=item.Id })'" class="btn btn-danger">Delete</button>
         </td>
     </tr>
 }
